@@ -11,4 +11,5 @@ do
     shell.sendkeys (strtext & "{enter}")
     wscript.sleep rate
   Next
+  msgbox "Thank you very much!"
 loop
